@@ -15,5 +15,3 @@ the
 ,
 ’
 .
-carly
-victoria
