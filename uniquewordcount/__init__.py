@@ -1,1 +1,2 @@
 from unique_word_count import unique_word_count
+from bar_graph import create_bar_graph
